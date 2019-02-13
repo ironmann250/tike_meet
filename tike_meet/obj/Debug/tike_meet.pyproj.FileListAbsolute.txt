@@ -1,0 +1,10 @@
+D:\projects\tike_meet\tike_meet\bin\Debug\tike_meet.exe.config
+D:\projects\tike_meet\tike_meet\bin\Debug\tike_meet.exe
+D:\projects\tike_meet\tike_meet\bin\Debug\tike_meet.dll
+D:\projects\tike_meet\tike_meet\bin\Debug\IronPython.dll
+D:\projects\tike_meet\tike_meet\bin\Debug\IronPython.Modules.dll
+D:\projects\tike_meet\tike_meet\bin\Debug\Microsoft.Dynamic.dll
+D:\projects\tike_meet\tike_meet\bin\Debug\Microsoft.Scripting.dll
+D:\projects\tike_meet\tike_meet\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\projects\tike_meet\tike_meet\obj\Debug\tike_meet.pyprojResolveAssemblyReference.cache
+D:\projects\tike_meet\tike_meet\obj\Debug\tike_meet.exe
